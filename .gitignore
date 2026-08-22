@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Data
+*.csv
+*.tsv
+*.parquet
+
+# MLflow / model artifacts
+mlruns/
+*.pkl
+*.joblib
+
+# Environment
+.env
+.venv/
+venv/
+
+# Tableau temporary files
+*.twb~
