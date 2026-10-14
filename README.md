@@ -4,6 +4,8 @@
 
 That is the question behind this portfolio project. I used synthetic financial transactions to build a model that **ranks account-days for review**. Rather than treating every model alert equally, the goal is to place the most useful cases at the top of a limited investigation queue.
 
+**[Explore the interactive case study](https://mohammedmia1.github.io/aml-risk-prioritization-ml/)** · **[Guided notebook](notebooks/AML_Model_Development_Guided_Audited.ipynb)** · **[Reproducibility audit](docs/REPRODUCIBILITY_AUDIT.md)**
+
 **[See the dashboard](#the-investigation-dashboard)** · **[Follow the journey](#the-project-journey)** · **[Read the notebook](notebooks/AML_Model_Development_Portfolio.ipynb)** · **[Understand the limitations](#important-limitations)**
 
 ![AML Risk Prioritization Dashboard](images/AML_Risk_Prioritization_Dashboard.png)
